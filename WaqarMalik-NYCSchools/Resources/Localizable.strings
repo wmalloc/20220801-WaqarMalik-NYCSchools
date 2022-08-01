@@ -1,0 +1,44 @@
+/* Localizable.strings
+  WaqarMalik-NYCSchools
+
+  Created by Waqar Malik on 7/30/22. */
+
+/* Unknown School */
+"NYC_UNKNOWN_SCHOOL" = "Unknown School";
+
+/* Number of Test Takers */
+"NYC_NUMBER_OF_TEST_TAKERS" = "Number of Test Takers";
+
+/* Total Students */
+"NYC_TOTAL_STUDENTS" = "Total Students";
+
+/* NYC Schools */
+"NYC_LISTVIEW_TITLE" = "NYC Schools";
+
+/* Selected Store: */
+"CHART_SELECTED_SCORE" = "Selected Store:";
+
+/* Average SAT Scores */
+"NYC_AVERAGE_SAT_SCORES" = "Average SAT Scores";
+
+/* Critical Reading */
+"NYC_CRITICAL_READING" = "Critical Reading";
+
+/* Math */
+"NYC_MATH" = "Math";
+
+/* Writing */
+"NYC_WRITING" = "Writing";
+
+/* Scores */
+"NYC_SCORES" = "Scores";
+
+/* Error */
+"NYC_ERROR" = "Error";
+
+/* OK */
+"NYC_OK" = "OK";
+
+/* Search school name */
+"NYC_SEARCH_SCHOOL_NAME" = "Search school name";
+

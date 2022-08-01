@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "webservice",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wmalloc/WebService.git",
+      "state" : {
+        "revision" : "884743a6e16a35daeaa63bdb18db716af88e9d13",
+        "version" : "0.5.5"
+      }
+    }
+  ],
+  "version" : 2
+}
